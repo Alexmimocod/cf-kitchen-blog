@@ -1,0 +1,12 @@
+title: Kitchen Design Ideas
+description: Beautiful kitchen organization and design inspiration
+baseurl: /cf-kitchen-blog
+url: https://Alexmimocod.github.io
+
+plugins:
+  - jekyll-feed
+
+feed:
+  categories:
+    - kitchen
+    - design
